@@ -1,0 +1,17 @@
+{
+    // See http://go.microsoft.com/fwlink/?LinkId=827846
+    // for the documentation about the extensions.json format
+    "recommendations": [
+      "foam.foam-vscode",
+      "yzhang.markdown-all-in-one",
+      "kortina.vscode-markdown-notes",
+      "mushan.vscode-paste-image",
+      "ban.spellright",
+      "dougfinke.vscode-pandoc",
+      "jebbs.markdown-extended",
+      "bierner.markdown-mermaid",
+      "bpruitt-goddard.mermaid-markdown-syntax-highlighting",
+      "tomoki1207.pdf"
+    ]
+  }
+  

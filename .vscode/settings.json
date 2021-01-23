@@ -1,0 +1,32 @@
+{
+  "files.autoSave": "onWindowChange",
+  "editor.minimap.enabled": false,
+  "editor.wrappingIndent": "indent",
+  "editor.overviewRulerBorder": false,
+  "editor.lineHeight": 24,
+  // "extensions.disabled": ["*"],
+  "[markdown]": {
+    "editor.quickSuggestions": true
+  },
+  "files.defaultLanguage": "markdown",
+  "files.exclude": {
+    "**/node_modules": true
+  },
+  "files.watcherExclude": {
+    "**/node_modules": true
+  },
+  // "foam.edit.linkReferenceDefinitions": "withExtensions",
+  "foam.openDailyNote.directory": "daily-notes",
+  "foam.openDailyNote.titleFormat": "fullDate",
+  "git.enableSmartCommit": true,
+  "git.postCommitCommand": "sync",
+  "markdown.preview.breaks": true,
+  "pasteImage.path": "${projectRoot}/docs/attachments",
+  "pasteImage.showFilePathConfirmInputBox": true,
+  // "prettier.singleQuote": false,
+  "spellright.notificationClass": "warning",
+  // "vscodeMarkdownNotes.noteCompletionConvention": "noExtension",
+  "vscodeMarkdownNotes.slugifyMethod": "github-slugger",
+  "window.autoDetectColorScheme": true,
+  "markdownExtended.disabledPlugins": "kbd",
+}
